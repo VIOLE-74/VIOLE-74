@@ -1,4 +1,3 @@
-```bash
 <span style="font-family: 'Cascadia Code'">
 ~/home/VIOLE-74/
 ├─learning/
@@ -18,4 +17,3 @@
     ├─Controllers
     └─Audio_EQ
 </span>
-```
