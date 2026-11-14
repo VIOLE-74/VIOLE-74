@@ -1,4 +1,5 @@
 ```bash
+<span style="font-family: 'Cascadia Code'">
 ~/home/VIOLE-74/
 ├─learning/
 │ ├─GNU_Linux
@@ -16,4 +17,5 @@
   └─tech/
     ├─Controllers
     └─Audio_EQ
+</span>
 ```
